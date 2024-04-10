@@ -7,7 +7,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b> Suicide Death Rates in US Hispanic& Latino Communties</b>
+- <b> Suicide Death Rates in US Hispanic & Latino Communties</b>
   - [Analysis & Visualizations of Suicide Death Rates](https://github.com/Juan-Varela11/Suicide_Rates_HispanicPop_US)
 
 
