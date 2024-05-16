@@ -3,7 +3,9 @@
 <h2>👨🏻‍🔬 Physics Projects:</h2>
 
 - <b> Hypergraph Growth Rates</b>
-  - [Study & Search of Exotic Growth Rates in Spatial Hypergraphs ](https://github.com/Juan-Varela11/WWS22-GrowthRates)
+  - [Study & Search of Exotic Growth Rates in Spatial Hypergraphs](https://github.com/Juan-Varela11/WWS22-GrowthRates)
+- <b> Quantum Computations of Dark Energy Models</b>
+  - [Computations of Ground State Energies of Various Dark Energy Models]( https://github.com/Juan-Varela11/BNL_2020_Summer_Internship)
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
