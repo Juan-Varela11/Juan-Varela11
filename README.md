@@ -2,7 +2,7 @@
 
 <h2>👨🏻‍🔬 Physics Projects:</h2>
 
-- <b> Different Growth Rates of Hypergraphs</b>
+- <b> Hypergraph Growth Rates</b>
   - [Study & Search of Exotic Growth Rates in Spatial Hypergraphs ](https://github.com/Juan-Varela11/WWS22-GrowthRates)
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
