@@ -8,8 +8,10 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b> Suicide Death Rates in US Hispanic & Latino Communties</b>
-  - [Analysis & Visualizations of Suicide Death Rates](https://github.com/Juan-Varela11/Suicide_Rates_HispanicPop_US)
-
+  - [Analysis & Visualizations of Suicide Death Rates](https://github.com/Juan-Varela11/Suicide_Rates_HispanicPop_US)<br>
+  
+- <b> Video Game Player Trends within Grand Theft Auto Online</b>
+  - [GTA Online Player Statistics](https://github.com/Juan-Varela11/Grand_Theft_Auto_Online_Stats)
 
 <h2> 🤳 Connect with me:</h2>
 
