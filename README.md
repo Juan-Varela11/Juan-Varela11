@@ -5,7 +5,7 @@
 - <b> Different Growth Rates of Hypergraphs</b>
   - [Study & Search of Exotic Growth Rates in Spatial Hypergraphs ](https://github.com/Juan-Varela11/WWS22-GrowthRates)
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b> Suicide Death Rates in US Hispanic & Latino Communties</b>
   - [Analysis & Visualizations of Suicide Death Rates](https://github.com/Juan-Varela11/Suicide_Rates_HispanicPop_US)
