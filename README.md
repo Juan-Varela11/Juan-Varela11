@@ -13,6 +13,8 @@
   - [Analysis & Visualizations of Suicide Death Rates](https://github.com/Juan-Varela11/Suicide_Rates_HispanicPop_US)
 - <b> Video Game Player Trends: Grand Theft Auto Online</b>
   - [GTA Online Player Statistics](https://github.com/Juan-Varela11/Grand_Theft_Auto_Online_Stats)
+- <b> Massachusetts COVID-19 Cases and Deaths</b>
+  - [Case and Death Counts & Trends](https://github.com/Juan-Varela11/COVID_Cases_MA_and_Nationwide)
 
 <h2> 🤳 Connect with me:</h2>
 
