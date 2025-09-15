@@ -15,7 +15,7 @@
   - [Analysis & Visualizations of Suicide Death Rates](https://github.com/Juan-Varela11/Suicide_Rates_HispanicPop_US)
 - <b> Massachusetts COVID-19 Cases and Deaths</b>
   - [Case and Death Counts & Trends](https://github.com/Juan-Varela11/COVID_Cases_MA_and_Nationwide)
-- <b>Physics Departments Admission Rates</b>
+- <b>Physics Departments Admission Comparisons</b>
   - [Comparison of admission rates at various physics departments around the world](https://github.com/Juan-Varela11/physics_admissions_analysis)
 <h2> 🤳 Connect with me:</h2>
 
