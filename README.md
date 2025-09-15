@@ -15,8 +15,6 @@
   - [Analysis & Visualizations of Suicide Death Rates](https://github.com/Juan-Varela11/Suicide_Rates_HispanicPop_US)
 - <b> Massachusetts COVID-19 Cases and Deaths</b>
   - [Case and Death Counts & Trends](https://github.com/Juan-Varela11/COVID_Cases_MA_and_Nationwide)
-- <b> Duolingo's AI Policies Impact on User Count</b>
-  - [Duolingo's AI Policies Impact on Usage and Revenue](https://github.com/Juan-Varela11/Duolingo_AI_UserCount)
 
 <h2> 🤳 Connect with me:</h2>
 
