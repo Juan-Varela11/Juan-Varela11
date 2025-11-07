@@ -6,8 +6,8 @@
   - [Study & Search of Exotic Growth Rates in Spatial Hypergraphs](https://github.com/Juan-Varela11/WWS22-GrowthRates)
 - <b> Quantum Computations of Dark Energy Models</b>
   - [Computations of Ground State Energies of Various Dark Energy Models]( https://github.com/Juan-Varela11/BNL_2020_Summer_Internship)
-- <b> Astro Simulations</b>
-  - [Astronomical & Astrophysical simulations using Python](https://github.com/Juan-Varela11/Astro_Simulations)
+<!-- - <b> Astro Simulations</b>
+  - [Astronomical & Astrophysical simulations using Python](https://github.com/Juan-Varela11/Astro_Simulations) -->
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
@@ -15,8 +15,8 @@
   - [Analysis & Visualizations of Suicide Death Rates](https://github.com/Juan-Varela11/Suicide_Rates_HispanicPop_US)
 - <b> Massachusetts COVID-19 Cases and Deaths</b>
   - [Case and Death Counts & Trends](https://github.com/Juan-Varela11/COVID_Cases_MA_and_Nationwide)
-- <b>Physics Departments Admission Comparisons</b>
-  - [Comparison of admission rates at various physics departments around the world](https://github.com/Juan-Varela11/physics_admissions_analysis)
+<!-- - <b>Physics Departments Admission Comparisons</b>
+  - [Comparison of admission rates at various physics departments around the world](https://github.com/Juan-Varela11/physics_admissions_analysis) -->
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
