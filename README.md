@@ -8,6 +8,8 @@
   - [Computations of Ground State Energies of Various Dark Energy Models]( https://github.com/Juan-Varela11/BNL_2020_Summer_Internship)
 <!-- - <b> Astro Simulations</b>
   - [Astronomical & Astrophysical simulations using Python](https://github.com/Juan-Varela11/Astro_Simulations) -->
+- <b> Simple Pendulum</b>
+  - [Data analysis & simulation of pendulum behavior (simple, driven, damped, double)](https://github.com/Juan-Varela11/simple-pendulum)
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
